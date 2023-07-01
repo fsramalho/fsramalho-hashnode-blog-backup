@@ -1,3 +1,3 @@
-# https://fsramalho.hashnode.dev/ Backup
+# https://def.fabioramalho.me Backup
 
-This repo includes the backup for my blog posts on Hashnode blog https://fsramalho.hashnode.dev/.
+This repository is a backup of my blog posts on https://dev.fabioramalho.me/, used on my Hashnode.
